@@ -1,8 +1,6 @@
 # libftTester (2022+)
 libft-00のtesterです
 
-[Tripouille libftTester](https://github.com/Tripouille/libftTester)のリポジトリを参考にしてます
-
 ## Commands
 ### ```make m```
 上記のコマンドを実行すると, テストが開始されます
@@ -34,3 +32,6 @@ arコマンドなどを使ってlibft.aを作るMakefileを作成しましょう
 ## Report bugs / Improvement
 Contact me on slack or discord : jgambard  
 
+
+## References
+[Tripouille libftTester](https://github.com/Tripouille/libftTester)のリポジトリを参考にしてます
