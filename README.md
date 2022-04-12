@@ -29,3 +29,8 @@ arコマンドなどを使ってlibft.aを作るMakefileを作成しましょう
 
 ## Report bugs / Improvement
 Contact me on slack or discord : jgambard  
+
+## Coffee☕
+```make coffee```を実行すると
+
+激しく湯気が出るcoffeeが出てきます
