@@ -16,6 +16,9 @@ clang++入れてない方は入れときましょう
 ### Directory
 以下のような配置にしてください
 
+![image](https://user-images.githubusercontent.com/70263039/162998740-3e5ef392-c9d2-44eb-83e3-efe474ac8cf9.png)
+
+
 
 ## Outputs
 ![image](https://user-images.githubusercontent.com/70263039/162992582-4d95e53e-9e96-4b10-b3ba-0b20e4f15f67.png)
