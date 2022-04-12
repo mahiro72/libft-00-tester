@@ -4,9 +4,12 @@ libft-00のtesterです
 [Tripouille libftTester](https://github.com/Tripouille/libftTester)のリポジトリを参考にしてます
 
 ## Commands
-```make m```
+### ```make m```
+上記のコマンドを実行するとテストが開始されます
 
-上記のコマンドを入力するとテストが開始されます
+
+### ```make coffee```
+上記のコマンドを実行すると**激しく湯気が出るcoffee☕**が出てきます
 
 ## Enviroment
 ### Local
@@ -30,7 +33,3 @@ arコマンドなどを使ってlibft.aを作るMakefileを作成しましょう
 ## Report bugs / Improvement
 Contact me on slack or discord : jgambard  
 
-## Coffee☕
-```make coffee```を実行すると
-
-激しく湯気が出るcoffeeが出てきます
