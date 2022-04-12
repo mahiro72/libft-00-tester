@@ -18,6 +18,9 @@ clang++入れてない方は入れときましょう
 
 ![image](https://user-images.githubusercontent.com/70263039/162998740-3e5ef392-c9d2-44eb-83e3-efe474ac8cf9.png)
 
+### Makefile
+libft-00ではMakefileはいりませんがテストするには作成する必要があります
+arコマンドなどを使ってlibft.aを作るMakefileを作成しましょう
 
 
 ## Outputs
